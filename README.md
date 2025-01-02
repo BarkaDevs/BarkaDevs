@@ -2,9 +2,7 @@
 <div align="center">
   <img src="logo.png" alt="BarkaDevs Logo"/>
 </div>
-
 ---
-
 ## 🌟 About Us
 
 We are **BarkaDevs**, a team of self-taught developers passionate about creating digital solutions that make a difference. What started as a shared love for technology has grown into a collaborative journey to learn, innovate, and deliver meaningful projects.  
