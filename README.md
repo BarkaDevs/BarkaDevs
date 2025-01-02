@@ -1,6 +1,6 @@
 <!-- Replace "barkadevs-logo.jpg" with your actual image file name -->
 <div align="center">
-  <img src="logo.png" alt="BarkaDevs Logo" width="200"/>
+  <img src="logo.png" alt="BarkaDevs Logo"/>
 </div>
 
 <h1 align="center">BarkaDevs</h1>
