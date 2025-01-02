@@ -2,12 +2,12 @@
 <div align="center">
   <img src="logo.png" alt="BarkaDevs Logo"/>
 </div>
+
 ---
+
 ## 🌟 About Us
 
 We are **BarkaDevs**, a team of self-taught developers passionate about creating digital solutions that make a difference. What started as a shared love for technology has grown into a collaborative journey to learn, innovate, and deliver meaningful projects.  
-
-Although we’re still growing, our dedication to quality, teamwork, and continuous learning drives us forward. Every project is an opportunity to grow and make an impact.
 
 ---
 
