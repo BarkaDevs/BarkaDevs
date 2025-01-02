@@ -34,8 +34,6 @@ We’re a team of self-taught developers, each bringing unique skills and a shar
 
 ## 🛠️ Technologies We Use
 
-We may be a small team, but we’re versatile and eager to grow. Here's what we currently use:
-
 - **Languages:** PHP, JavaScript, C++, Dart (Flutter)  
 - **Frameworks & Tools:** Laravel, Flutter, React  
 - **Databases:** MySQL, PostgreSQL  
