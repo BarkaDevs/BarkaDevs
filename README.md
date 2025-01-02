@@ -3,12 +3,6 @@
   <img src="logo.png" alt="BarkaDevs Logo"/>
 </div>
 
-<h1 align="center">BarkaDevs</h1>
-
-<p align="center">
-  <em>"A small team with big dreams, building the future one line of code at a time."</em> 🚀
-</p>
-
 ---
 
 ## 🌟 About Us
