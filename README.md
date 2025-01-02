@@ -49,9 +49,3 @@ We’re always exploring new tools and technologies to expand our expertise.
 We’d love to hear from you!  
 
 - 📧 **[Email Us](mailto:barkadevszxc@gmail.com)**  
-
----
-
-<p align="center">
-  <strong>"Great things start small — and so did we!"</strong>
-</p>
